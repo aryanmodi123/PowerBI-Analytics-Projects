@@ -61,7 +61,7 @@ Junior Data Analyst / MIS / Reporting Analyst (Fresher)
 
 Each project folder contains:
 - Dashboard screenshots
-- Dataset (where applicable)
-- Power BI (.pbix) file (if size allows)
+- Dataset 
+- Power BI (.pbix) file
 - Project-specific documentation
 
